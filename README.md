@@ -2,6 +2,7 @@
   <b>Welcome to my profile</b>
 
   Some stuff
+  <table><tr><td valign="center"><img valign="center" width=20 src="https://i.imgur.com/1DR7kNS.png"></img> kato8729</td></tr></table>
   
   ![Kakato GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoKakuta&show_icons=true&theme=radical)  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoKakuta&layout=compact&theme=radical)
