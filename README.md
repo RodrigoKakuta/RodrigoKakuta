@@ -3,9 +3,8 @@
 
   Some stuff
   
-[![Kakato GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoKakuta)](https://github.com/anuraghazra/github-readme-stats)
-
-  
+  ![Kakato GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoKakuta&show_icons=true&theme=radical)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoKakuta&layout=compact&theme=radical)
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="40" alt="R logo"  />
   <img width="12" />
